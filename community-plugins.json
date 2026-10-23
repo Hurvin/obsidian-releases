@@ -65546,5 +65546,12 @@
     "author": "sin5",
     "description": "Manage your personal inventory as structured data. Track purchase price, dates, tags, recycling value, and see daily cost stats. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alvinfunborn/lac-costset"
+  },
+  {
+    "id": "window-docker",
+    "name": "Window Docker",
+    "author": "Wu Dongyang",
+    "description": "Dock external desktop windows (such as WeChat, Edge, ChatGPT, FlClash, and terminals) directly into tabs and sidebars on Windows.",
+    "repo": "Hurvin/obsidian-window-docker"
   }
 ]
